@@ -1,0 +1,11 @@
+c:\users\duttles\documents\visual studio 2012\Projects\sitos_jeapordy\sitos_jeapordy\bin\Debug\sitos_jeapordy.exe.config
+c:\users\duttles\documents\visual studio 2012\Projects\sitos_jeapordy\sitos_jeapordy\bin\Debug\sitos_jeapordy.exe
+c:\users\duttles\documents\visual studio 2012\Projects\sitos_jeapordy\sitos_jeapordy\bin\Debug\sitos_jeapordy.pdb
+c:\users\duttles\documents\visual studio 2012\Projects\sitos_jeapordy\sitos_jeapordy\obj\Debug\sitos_jeapordy.csprojResolveAssemblyReference.cache
+c:\users\duttles\documents\visual studio 2012\Projects\sitos_jeapordy\sitos_jeapordy\obj\Debug\sitos_jeapordy.Properties.Resources.resources
+c:\users\duttles\documents\visual studio 2012\Projects\sitos_jeapordy\sitos_jeapordy\obj\Debug\sitos_jeapordy.csproj.GenerateResource.Cache
+c:\users\duttles\documents\visual studio 2012\Projects\sitos_jeapordy\sitos_jeapordy\obj\Debug\sitos_jeapordy.exe
+c:\users\duttles\documents\visual studio 2012\Projects\sitos_jeapordy\sitos_jeapordy\obj\Debug\sitos_jeapordy.pdb
+c:\users\duttles\documents\visual studio 2012\Projects\sitos_jeapordy\sitos_jeapordy\obj\Debug\sitos_jeapordy.sitos2Jeopardy.resources
+c:\users\duttles\documents\visual studio 2012\Projects\sitos_jeapordy\sitos_jeapordy\obj\Debug\sitos_jeapordy.teamNameTxt.resources
+c:\users\duttles\documents\visual studio 2012\Projects\sitos_jeapordy\sitos_jeapordy\obj\Debug\sitos_jeapordy.question.resources
