@@ -738,7 +738,7 @@ namespace sitos_jeapordy
             this.lblB.AutoSize = true;
             this.lblB.BackColor = System.Drawing.Color.MidnightBlue;
             this.lblB.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lblB.Font = new System.Drawing.Font("Modern No. 20", 21.75F, System.Drawing.FontStyle.Bold);
+            this.lblB.Font = new System.Drawing.Font("Modern No. 20", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblB.ForeColor = System.Drawing.Color.Yellow;
             this.lblB.Location = new System.Drawing.Point(143, 80);
             this.lblB.MaximumSize = new System.Drawing.Size(130, 100);
@@ -747,7 +747,7 @@ namespace sitos_jeapordy
             this.lblB.Size = new System.Drawing.Size(130, 100);
             this.lblB.TabIndex = 4;
             this.lblB.Tag = "lblB";
-            this.lblB.Text = "Category B";
+            this.lblB.Text = "Football Trivia";
             this.lblB.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblC
@@ -755,7 +755,7 @@ namespace sitos_jeapordy
             this.lblC.AutoSize = true;
             this.lblC.BackColor = System.Drawing.Color.SteelBlue;
             this.lblC.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lblC.Font = new System.Drawing.Font("Modern No. 20", 21.75F, System.Drawing.FontStyle.Bold);
+            this.lblC.Font = new System.Drawing.Font("Modern No. 20", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblC.ForeColor = System.Drawing.Color.Yellow;
             this.lblC.Location = new System.Drawing.Point(279, 80);
             this.lblC.MaximumSize = new System.Drawing.Size(130, 100);
@@ -764,7 +764,7 @@ namespace sitos_jeapordy
             this.lblC.Size = new System.Drawing.Size(130, 100);
             this.lblC.TabIndex = 3;
             this.lblC.Tag = "lblC";
-            this.lblC.Text = "Category C";
+            this.lblC.Text = "Football Years";
             this.lblC.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblD
@@ -772,7 +772,7 @@ namespace sitos_jeapordy
             this.lblD.AutoSize = true;
             this.lblD.BackColor = System.Drawing.Color.MidnightBlue;
             this.lblD.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lblD.Font = new System.Drawing.Font("Modern No. 20", 21.75F, System.Drawing.FontStyle.Bold);
+            this.lblD.Font = new System.Drawing.Font("Modern No. 20", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblD.ForeColor = System.Drawing.Color.Yellow;
             this.lblD.Location = new System.Drawing.Point(415, 80);
             this.lblD.MaximumSize = new System.Drawing.Size(130, 100);
@@ -781,7 +781,7 @@ namespace sitos_jeapordy
             this.lblD.Size = new System.Drawing.Size(130, 100);
             this.lblD.TabIndex = 2;
             this.lblD.Tag = "lblD";
-            this.lblD.Text = "Category D";
+            this.lblD.Text = "Superbowl Commercials";
             this.lblD.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblE
@@ -789,7 +789,7 @@ namespace sitos_jeapordy
             this.lblE.AutoSize = true;
             this.lblE.BackColor = System.Drawing.Color.SteelBlue;
             this.lblE.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lblE.Font = new System.Drawing.Font("Modern No. 20", 21.75F, System.Drawing.FontStyle.Bold);
+            this.lblE.Font = new System.Drawing.Font("Modern No. 20", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblE.ForeColor = System.Drawing.Color.Yellow;
             this.lblE.Location = new System.Drawing.Point(551, 80);
             this.lblE.MaximumSize = new System.Drawing.Size(130, 100);
@@ -798,7 +798,7 @@ namespace sitos_jeapordy
             this.lblE.Size = new System.Drawing.Size(130, 100);
             this.lblE.TabIndex = 1;
             this.lblE.Tag = "lblE";
-            this.lblE.Text = "Category E";
+            this.lblE.Text = "Hospitality";
             this.lblE.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblF
@@ -806,7 +806,7 @@ namespace sitos_jeapordy
             this.lblF.AutoSize = true;
             this.lblF.BackColor = System.Drawing.Color.MidnightBlue;
             this.lblF.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lblF.Font = new System.Drawing.Font("Modern No. 20", 21.75F, System.Drawing.FontStyle.Bold);
+            this.lblF.Font = new System.Drawing.Font("Modern No. 20", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblF.ForeColor = System.Drawing.Color.Yellow;
             this.lblF.Location = new System.Drawing.Point(687, 80);
             this.lblF.MaximumSize = new System.Drawing.Size(130, 100);
@@ -838,7 +838,7 @@ namespace sitos_jeapordy
             this.lblA.AutoSize = true;
             this.lblA.BackColor = System.Drawing.Color.SteelBlue;
             this.lblA.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lblA.Font = new System.Drawing.Font("Modern No. 20", 21.75F, System.Drawing.FontStyle.Bold);
+            this.lblA.Font = new System.Drawing.Font("Modern No. 20", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblA.ForeColor = System.Drawing.Color.Yellow;
             this.lblA.Location = new System.Drawing.Point(7, 80);
             this.lblA.MaximumSize = new System.Drawing.Size(130, 100);
@@ -847,7 +847,7 @@ namespace sitos_jeapordy
             this.lblA.Size = new System.Drawing.Size(130, 100);
             this.lblA.TabIndex = 37;
             this.lblA.Tag = "lblA";
-            this.lblA.Text = "Category A";
+            this.lblA.Text = "Acronyms";
             this.lblA.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnTeam1

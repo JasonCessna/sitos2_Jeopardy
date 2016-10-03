@@ -272,6 +272,7 @@
             this.lblQuestion.ForeColor = System.Drawing.Color.YellowGreen;
             this.lblQuestion.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.lblQuestion.Location = new System.Drawing.Point(83, 176);
+            this.lblQuestion.MaximumSize = new System.Drawing.Size(810, 280);
             this.lblQuestion.MinimumSize = new System.Drawing.Size(810, 280);
             this.lblQuestion.Name = "lblQuestion";
             this.lblQuestion.Size = new System.Drawing.Size(810, 280);

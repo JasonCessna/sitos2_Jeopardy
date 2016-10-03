@@ -155,35 +155,35 @@ namespace sitos_jeapordy
         private void btnA200_Click(object sender, EventArgs e)
         {
             char column = 'a';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "This is the definition of \"LARD\"";
             buttonClick(btnA200, 200, column, boxQuestion);
         }
 
         private void btnA400_Click(object sender, EventArgs e)
         {
             char column = 'a';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "I am the definition of \"LAST\"";
             buttonClick(btnA400, 400, column, boxQuestion);
         }
 
         private void btnA600_Click(object sender, EventArgs e)
         {
             char column = 'a';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "I am the three savers of 5-5-5";
             buttonClick(btnA600, 600, column, boxQuestion);
         }
 
         private void btnA800_Click(object sender, EventArgs e)
         {
             char column = 'a';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "I am the definition of \"GUEST\"";
             buttonClick(btnA800, 800, column, boxQuestion);
         }
 
         private void btnA1000_Click(object sender, EventArgs e)
         {
             char column = 'a';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "This is the definition of \"ACTION\"";
             buttonClick(btnA1000, 1000, column, boxQuestion);
         }
         /*-------COLUMN B-------*/
@@ -191,35 +191,35 @@ namespace sitos_jeapordy
         private void btnB200_Click(object sender, EventArgs e)
         {
             char column = 'b';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "I am the trophy Super Bowl winners receive";
             buttonClick(btnB200, 200, column, boxQuestion);
         }
 
         private void btnB400_Click(object sender, EventArgs e)
         {
             char column = 'b';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "This NFL team has the most Super Bowl wins";
             buttonClick(btnB400, 400, column, boxQuestion);
         }
 
         private void btnB600_Click(object sender, EventArgs e)
         {
             char column = 'b';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "This city will host the Super Bowl in 2017";
             buttonClick(btnB600, 600, column, boxQuestion);
         }
 
         private void btnB800_Click(object sender, EventArgs e)
         {
             char column = 'b';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "I am the quarterback who won the Super Bowl in 2016";
             buttonClick(btnB800, 800, column, boxQuestion);
         }
 
         private void btnB1000_Click(object sender, EventArgs e)
         {
             char column = 'b';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "This football player was a pizza delivery driver in college";
             buttonClick(btnB1000, 1000, column, boxQuestion);
         }
 
@@ -227,35 +227,35 @@ namespace sitos_jeapordy
         private void btnC200_Click(object sender, EventArgs e)
         {
             char column = 'c';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "The first Super Bowl was played in this year";
             buttonClick(btnC200, 200, column, boxQuestion);
         }
 
         private void btnC400_Click(object sender, EventArgs e)
         {
             char column = 'c';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "The NFL was formed in this year";
             buttonClick(btnC400, 400, column, boxQuestion);
         }
 
         private void btnC600_Click(object sender, EventArgs e)
         {
             char column = 'c';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "In this year the first overtime for a regular season game occured (Pittsburgh vs. Denver)";
             buttonClick(btnC600, 600, column, boxQuestion);
         }
 
         private void btnC800_Click(object sender, EventArgs e)
         {
             char column = 'c';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "In 1914, the first bowl-shaped stadium was built and played in. The stadium was built in this University";
             buttonClick(btnC800, 800, column, boxQuestion);
         }
 
         private void btnC1000_Click(object sender, EventArgs e)
         {
             char column = 'c';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "In 1967, a 30-second Super Bowl commercial cost roughly this much (nearest $1,000)";
             buttonClick(btnC1000, 1000, column, boxQuestion);
         }
 
@@ -263,35 +263,35 @@ namespace sitos_jeapordy
         private void btnD200_Click(object sender, EventArgs e)
         {
             char column = 'd';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "Roughly, this is how much a Super Bowl ad will cost this year";
             buttonClick(btnD200, 200, column, boxQuestion);
         }
 
         private void btnD400_Click(object sender, EventArgs e)
         {
             char column = 'd';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "This many people watched the Super Bowl last year (closest 10,000)";
             buttonClick(btnD400, 400, column, boxQuestion);
         }
 
         private void btnD600_Click(object sender, EventArgs e)
         {
             char column = 'd';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "This many brands purchased air time in the 2016 Super Bowl";
             buttonClick(btnD600, 600, column, boxQuestion);
         }
 
         private void btnD800_Click(object sender, EventArgs e)
         {
             char column = 'd';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "This company spent the most money on advertisements in the last 10 years";
             buttonClick(btnD800, 800, column, boxQuestion);
         }
 
         private void btnD1000_Click(object sender, EventArgs e)
         {
             char column = 'd';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "I am the performance who was the most watched Super Bowl halftime show";
             buttonClick(btnD1000, 1000, column, boxQuestion);
         }
 
@@ -299,35 +299,35 @@ namespace sitos_jeapordy
         private void btnE200_Click(object sender, EventArgs e)
         {
             char column = 'e';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "When I pause as a guest is walking past to smile and acknowledge them while giving the guest the right away";
             buttonClick(btnE200, 200, column, boxQuestion);
         }
 
         private void btnE400_Click(object sender, EventArgs e)
         {
             char column = 'e';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "I am every point in the 5-point intro";
             buttonClick(btnE400, 400, column, boxQuestion);
         }
 
         private void btnE600_Click(object sender, EventArgs e)
         {
             char column = 'e';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "I am the last step in a perfect prebus";
             buttonClick(btnE600, 600, column, boxQuestion);
         }
 
         private void btnE800_Click(object sender, EventArgs e)
         {
             char column = 'e';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "This is the layout in which the triangle method is executed";
             buttonClick(btnE800, 800, column, boxQuestion);
         }
 
         private void btnE1000_Click(object sender, EventArgs e)
         {
             char column = 'e';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "This is the long-time ticket procedure";
             buttonClick(btnE1000, 1000, column, boxQuestion);
         }
 
