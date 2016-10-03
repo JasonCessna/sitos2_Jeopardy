@@ -815,7 +815,7 @@ namespace sitos_jeapordy
             this.lblF.Size = new System.Drawing.Size(130, 100);
             this.lblF.TabIndex = 0;
             this.lblF.Tag = "lblFS";
-            this.lblF.Text = "Category F";
+            this.lblF.Text = "Manager Trivia";
             this.lblF.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblTeams

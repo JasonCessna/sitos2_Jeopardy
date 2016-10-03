@@ -335,35 +335,35 @@ namespace sitos_jeapordy
         private void btnF200_Click(object sender, EventArgs e)
         {
             char column = 'f';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "This is how many children Chris has (two questions can be correct)";
             buttonClick(btnF200, 200, column, boxQuestion);
         }
 
         private void btnF400_Click(object sender, EventArgs e)
         {
             char column = 'f';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "These two managers graduated from UH-D together";
             buttonClick(btnF400, 400, column, boxQuestion);
         }
 
         private void btnF600_Click(object sender, EventArgs e)
         {
             char column = 'f';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "These 5 managers have each worked at Sitos 6";
             buttonClick(btnF600, 600, column, boxQuestion);
         }
 
         private void btnF800_Click(object sender, EventArgs e)
         {
             char column = 'f';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "When this manager runs food, (s)he will absolutely knock you out of the way to get that food to a table";
             buttonClick(btnF800, 800, column, boxQuestion);
         }
 
         private void btnF1000_Click(object sender, EventArgs e)
         {
             char column = 'f';
-            string boxQuestion = "Question goes here";
+            string boxQuestion = "This manager lived in Alaska for one summer";
             buttonClick(btnF1000, 1000, column, boxQuestion);
         }
 

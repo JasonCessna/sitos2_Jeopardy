@@ -24,17 +24,17 @@ namespace sitos_jeapordy
             if (counter == totalTeams)
                 this.btnWrong.DialogResult = System.Windows.Forms.DialogResult.OK;
             if      (column == 'a')
-                lblColumn.Text = "Column A Category Info";
+                lblColumn.Text = "Acronyms";
             else if (column == 'b')
-                lblColumn.Text = "Column B Category Info";
+                lblColumn.Text = "Football Trivia";
             else if (column == 'c')
-                lblColumn.Text = "Column C Category Info";
+                lblColumn.Text = "Football Years";
             else if (column == 'd')
-                lblColumn.Text = "Column D Category Info";
+                lblColumn.Text = "Superbowl Commercials";
             else if (column == 'e')
-                lblColumn.Text = "Column E Category Info";
+                lblColumn.Text = "Hospitality";
             else if (column == 'f')
-                lblColumn.Text = "Column F Category Info";
+                lblColumn.Text = "Manager Trivia";
 
             lblQuestion.Text = boxQuestion;
             lblAmt.Text = "For $" + value;
